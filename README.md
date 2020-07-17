@@ -1,5 +1,5 @@
-# general-scripting
-Generic scripts and functions
+# General Scripting and Functions
+Generic scripts and functions, written as templates or for portability. I often reference or pull code from here.
 
 ## Scipts
 
